@@ -9,8 +9,11 @@ A colab notebook for creating 4:5 portraits with Stable Diffusion.
 
 #### why?
 - Prompts like `"A portrait of..."` work best close to 512x512 resolution with Stable Diffusion
-- But we want higher resolution images at a 4:5 aspect ratio
+- But we can still get detailed images at this resolution
 
 #### how?
 - Good prompt engineering
-- Upscale/clean-up using GFPGAN 
+
+### Sample output:
+
+![Sample image using prompt "Portrait of mythical nymph with black hair and golden ornate crown, 4k, rule of thirds, extreme detail, detailed drawing, trending artstation, hd, fantasy, d&d, realistic lighting, by alphonse mucha, greg rutkowski, sharp focus, backlit, bright red hair, elegant"](sample.png)
